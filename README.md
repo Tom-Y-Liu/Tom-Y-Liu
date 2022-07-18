@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there! 👋
+### - I am a PhD student at University of Pittsburgh studying on CFD
+### -
 
 <!--
 **Tom-Y-Liu/Tom-Y-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
