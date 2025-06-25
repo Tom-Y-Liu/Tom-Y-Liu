@@ -1,6 +1,6 @@
 ### Hello there! 👋
-### - I'm a PhD student at University of Pittsburgh studying on CFD
-### - I'm also a domain consultant at University of Pittsburgh Center for Research Computing
+### - I'm a research associate at Dartmouth College, studying ice sheet modeling using deep learning methods.
+### - I recently obtained my PhD from the University of Pittsburgh, where I studied turbulent combustion using reduced-order modeling techniques.
 
 <!--
 **Tom-Y-Liu/Tom-Y-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
